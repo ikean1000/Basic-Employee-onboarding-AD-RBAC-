@@ -1,0 +1,11 @@
+Currently in the Member of section Active Users and Computers Jane Cooper is a member of Operations, she should be in HR.
+Ticket number: NMG-0047
+Affected user: Jane Cooper (jcooper@NMG.com)
+Issue Reported: Unable to access HR shared resources. Desktop policies and mapped drives differ from teammates.
+Root cause: Jane Cooper was put in the wrong "OU". She was in operations when she should be in the HR OU.
+Fix applied: Jane Cooper was in Operations OU and I changed her to HR operations. The reason why is because she's an HR Payroll Specialist.
+I deleted the Operations OU she was in and added her to the HR OU.
+The reason why i changed her OU is because her work wasn't aligned with her coworkers.
+Verification: I checked the Active Directory users and computers for Jane Coopers profile which is now in HR OU to confirm she's in the correct area.
+Date resolved: 08/22/26
+Resolved by: IT New Hire
