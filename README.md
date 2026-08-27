@@ -7,7 +7,7 @@
 * I built a new Active Directory domain to better organize the users, departments, and access permissions. I also created Organizational Units (OU) for each department and security groups to control what resources employees could access. After that I created and organized user accounts based on their job roles and assigned them to the correct security groups. Using Role-Based Access Control (RBAC), I made sure employees only received access to the resources needed for their roles. Creating this allows more organization and a secure environment while making sure user access much easier to manage and troubleshoot.
 
 ## Video Walkthrough
-[Add your video walkthrough link placeholder here. You will record this tomorrow and update this link so visitors can see a live demonstration of your lab environment.]
+https://www.loom.com/share/3213456c5cc64b0ab4bc18edcd88d6af
 
 ## Tools Used
 * Windows Server
